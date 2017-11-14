@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 
-class Intro extends Component {
+class Photos extends Component {
   render() {
     return (
       
@@ -10,4 +10,4 @@ class Intro extends Component {
   }
 }
 
-export default Intro;
+export default Photos;
